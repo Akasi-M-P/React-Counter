@@ -2,12 +2,12 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import FunctionCounter from "./FunctionCounter";
+import ReactClassForm from "./react-class-form";
 
 function App() {
   return (
     <div>
-      <FunctionCounter />
+      <ReactClassForm />
     </div>
   );
 }
