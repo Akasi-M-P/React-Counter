@@ -31,7 +31,7 @@ class ReactClassForm extends Component {
   render() {
     return (
       <form className="form" onSubmit={this.handleSubmit}>
-        <h4>Controlled Forms</h4>
+        <h4>Class Form</h4>
         <div className="form-row">
           <label htmlFor="name" className="form-label">
             Name
